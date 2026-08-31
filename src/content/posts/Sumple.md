@@ -1,10 +1,6 @@
 ---
 title: Sumple.md
 published: 2026-08-31
-description: ''
-image: ''
-tags: []
-category: ''
+description: 'テスト記事の概要です'
 draft: false 
-lang: ''
 ---
