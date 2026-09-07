@@ -666,3 +666,46 @@ html {
 :root:not(.dark) .custom-md spoiler {
   --_spoiler-mask: color-mix(in oklch, var(--primary) 55%, white 45%);
 }
+/* ====================================================
+   ▼ ここから：ブログ本文の文字サイズと行間の設定
+   ==================================================== */
+
+/* 1. 記事全体のベース（文字サイズと行間） */
+.prose, .markdown-body, article {
+  font-size: 1.05rem !important;  /* 本文の文字サイズ（標準より少し大きめ） */
+  line-height: 1.85 !important;   /* 本文の行間（ゆったり読みやすく） */
+  letter-spacing: 0.02em;         /* 文字の間隔（洗練された印象に） */
+}
+
+/* 2. 段落（改行したときのすきま） */
+.prose p, .markdown-body p, article p {
+  margin-bottom: 1.5rem !important;
+  line-height: 1.85 !important;
+}
+
+/* 3. 見出しのサイズと上下の余白 */
+.prose h1, .markdown-body h1, article h1 {
+  font-size: 1.8rem !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1.2rem !important;
+  line-height: 1.35 !important;
+}
+
+.prose h2, .markdown-body h2, article h2 {
+  font-size: 1.45rem !important;
+  margin-top: 2.2rem !important;
+  margin-bottom: 1.0rem !important;
+  line-height: 1.35 !important;
+}
+
+.prose h3, .markdown-body h3, article h3 {
+  font-size: 1.25rem !important;
+  margin-top: 1.8rem !important;
+  margin-bottom: 0.8rem !important;
+}
+
+/* 4. 箇条書きリストの行間 */
+.prose li, .markdown-body li, article li {
+  line-height: 1.75 !important;
+  margin-bottom: 0.4rem !important;
+}
