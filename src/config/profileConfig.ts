@@ -2,7 +2,7 @@ import type { ProfileConfig } from "../types/config";
 
 // 个人资料配置
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/iso.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "assets/images/iso.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "mu",
 	bio: "頑張って書く",
 	typewriter: {
