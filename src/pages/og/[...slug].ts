@@ -317,7 +317,7 @@ export async function GET({
 		fonts.push({
 			name: "Noto Sans SC",
 			data: fontRegular,
-			weight: 400,
+			weight: 600,
 			style: "normal",
 		});
 	}
@@ -325,7 +325,7 @@ export async function GET({
 		fonts.push({
 			name: "Noto Sans SC",
 			data: fontBold,
-			weight: 700,
+			weight: 900,
 			style: "normal",
 		});
 	}
