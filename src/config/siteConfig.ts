@@ -123,13 +123,13 @@ export const siteConfig: SiteConfig = {
 		// 支持单张图片或图片数组，当数组长度 > 1 时自动启用轮播
 		src: {
 			desktop: [
-				"/assets/desktop-banner/TaipeiSky.jpeg",
+				"/assets/desktop-banner/TaipeiSky.jpeg"
 				//"/assets/desktop-banner/Malaysia.jpeg",
 				//"/assets/desktop-banner/Malaysia.jpeg",
 				//"/assets/desktop-banner/4.webp",
 			], // 桌面横幅图片
 			mobile: [
-				"/assets/desktop-banner/TaipeiSky.jpeg",
+				"/assets/desktop-banner/TaipeiSky.jpeg"
 				//"/assets/desktop-banner/Malaysia.jpeg",
 				//"/assets/desktop-banner/Malaysia.jpeg",
 				//"/assets/desktop-banner/4.webp",
