@@ -8,6 +8,8 @@ Xアカウントも持ってない人がブログを書く静的で開放的な�
 
 同じようなブログを書きたい人や、巨大な委員会によってこんなブログを隅々まで確認するように脅されてしまっている人はどうぞ。
 
+---
+
 This website is built with the **Astro** framework using the [Mizuki](https://github.com/LyraVoid/Mizuki) theme.
 
 ::github{repo="LyraVoid/Mizuki"}
