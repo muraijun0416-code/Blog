@@ -1,5 +1,5 @@
 ---
-title: 個人ブログを人生初のSNS投稿媒体にする…のかも。
+title: 個人ブログを人生初のSNS投稿媒体にする…のかも
 published: 2026-09-09
 tags: [がんばる,]
 category: Examples
