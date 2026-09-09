@@ -679,7 +679,7 @@ html {
 
 /* 2. 段落（改行したときのすきま） */
 .prose p, .markdown-body p, article p {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 3.0rem !important;
   line-height: 1.85 !important;
 }
 
