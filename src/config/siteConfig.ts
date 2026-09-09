@@ -162,7 +162,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true,
-			title: "ブログとか書くヤツ…　工事中",
+			title: "ブログとか書くヤツ.日誌",
 			switchable: true,
 
 			subtitle: [
