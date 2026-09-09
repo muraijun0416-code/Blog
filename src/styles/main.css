@@ -672,7 +672,7 @@ html {
 
 /* 1. 記事全体のベース（文字サイズと行間） */
 .prose, .markdown-body, article {
-  font-size: 1.05rem !important;  /* 本文の文字サイズ（標準より少し大きめ） */
+  font-size: 1.00rem !important;  /* 本文の文字サイズ（標準より少し大きめ） */
   line-height: 1.85 !important;   /* 本文の行間（ゆったり読みやすく） */
   letter-spacing: 0.02em;         /* 文字の間隔（洗練された印象に） */
 }
@@ -685,21 +685,21 @@ html {
 
 /* 3. 見出しのサイズと上下の余白 */
 .prose h1, .markdown-body h1, article h1 {
-  font-size: 1.8rem !important;
+  font-size: 1.9rem !important;
   margin-top: 2.5rem !important;
   margin-bottom: 1.2rem !important;
   line-height: 1.35 !important;
 }
 
 .prose h2, .markdown-body h2, article h2 {
-  font-size: 1.45rem !important;
+  font-size: 1.55rem !important;
   margin-top: 2.2rem !important;
   margin-bottom: 1.0rem !important;
   line-height: 1.35 !important;
 }
 
 .prose h3, .markdown-body h3, article h3 {
-  font-size: 1.25rem !important;
+  font-size: 1.35rem !important;
   margin-top: 1.8rem !important;
   margin-bottom: 0.8rem !important;
 }
