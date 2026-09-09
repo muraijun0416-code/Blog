@@ -134,7 +134,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 
 		// 自定义一级下拉菜单示例：外部链接集合
-		{
+		/*{
 			name: "Links",
 			url: "/links/",
 			icon: "material-symbols:link",
@@ -158,7 +158,7 @@ export const navBarConfig: NavBarConfig = {
 					icon: "mdi:git",
 				},
 			],
-		},
+		},*/
 
 		// 自定义一级下拉菜单示例：个人内容页面
 		{
@@ -225,12 +225,12 @@ export const navBarConfig: NavBarConfig = {
 					url: "/skills/",
 					icon: "material-symbols:psychology",
 				},
-				LinkPreset.AITools,
+				/*LinkPreset.AITools,
 				{
 					name: "Timeline",
 					url: "/timeline/",
 					icon: "material-symbols:timeline",
-				},
+				},*/
 			],
 		},
 	],

@@ -4,7 +4,7 @@ import type { AnnouncementConfig } from "../types/config";
 export const announcementConfig: AnnouncementConfig = {
 	title: "こんにちは〜", 
 // お知らせのタイトル。プレースホルダーにはi18n文字列キー「announcement」を使用します。
-	content: "ブログへようこそ！これはサンプルの告知です", 
+	content: "これは、生まれたてのブログです！　応援してくださいね。", 
 // お知らせの内容
 	closable: true, // ユーザーが告知を閉じることを許可する
 	link: {
