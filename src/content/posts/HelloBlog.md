@@ -4,6 +4,7 @@ published: 2026-09-09
 tags: [がんばる,]
 draft: false
 ---
+![alt text](image.png)
 ---
 ## ブログを書きたい。んで、人生を整えたい
 ---
