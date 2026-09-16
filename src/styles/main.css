@@ -673,13 +673,13 @@ html {
 /* 1. 記事全体のベース（文字サイズと行間） */
 .prose, .markdown-body, article {
   font-size: 1.00rem !important;  /* 本文の文字サイズ（標準より少し大きめ） */
-  line-height: 1.85 !important;   /* 本文の行間（ゆったり読みやすく） */
+  line-height: 2.85 !important;   /* 本文の行間（ゆったり読みやすく） */
   letter-spacing: 0.02em;         /* 文字の間隔（洗練された印象に） */
 }
 
 /* 2. 段落（改行したときのすきま） */
 .prose p, .markdown-body p, article p {
-  margin-bottom: 6.0rem !important;
+  margin-bottom: 3.0rem !important;
   line-height: 1.85 !important;
 }
 
