@@ -2,7 +2,7 @@
 title: 結局作れた人がすごい…のかも。
 published: 2026-09-09
 tags: [思想,]
-draft: false
+draft: true
 ---
 
 ## まともさと制作力は比例しない。むしろ反比例するのかもしれない？
