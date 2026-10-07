@@ -4,8 +4,7 @@ published: 2026-09-09
 tags: [がんばる,]
 draft: false
 ---
-![alt text](image.png)
-↑ちっちゃいかばんちゃん
+
 
 
 ---
